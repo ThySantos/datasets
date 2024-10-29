@@ -1,23 +1,23 @@
-nome,ano,horas,notas
-André Rocha,2,3,8.5
-Elisa Manuela,2,3,7
-Larissa Villela,3,3,8
-Luísa Santos,3,6,7.5
-Leonardo jose peres de Oliveira,1,3,7.8
-Marina T,2,6,8
-Laura Clemente dos Santos de Souza,2,6,8.5
-Victoria Yohana,4,6,8
-Jorge Brandão ,2,6,8.5
-João Pedro,2,6,7.5
-Théo,2,3,7.5
-Júlia Alves,3,3,7
-Thayná Villela,4,3,6.5
-Danilo de Araujo Machado,5,6,7.5
+nome,ano,horas,notasinicio,notasfim
+André Rocha,2,3,6,8.5
+Elisa Manuela,2,3,6,7
+Larissa Villela,3,3,5,8
+Luísa Santos,3,6,7,7.5
+Leonardo jose peres de Oliveira,1,3,6,7.8
+Marina T,2,6,8,8
+Laura Clemente dos Santos de Souza,2,6,7,8.5
+Victoria Yohana,4,6,5,8
+Jorge Brandão ,2,6,6.4,8.5
+João Pedro,2,6,3.5,7.5
+Théo,2,3,7,7.5
+Júlia Alves,3,3,5,7
+Thayná Villela,4,3,7.0,6.5
+Danilo de Araujo Machado,5,6,6,7.5
 Rodrigo Pinheiro,4,6,9
-Nicole Carneiro Camargo,4,6,9.5
-Mateus Morais,2,3,8
-Miguel Vinicius,4,6,7
-Douglas Raposo,4,6,8
-Bárbara Vincente,3,3.5
-Enzo Goncalves,3,6,5.6
-Agatha Cunha,2,6,7.8
+Nicole Carneiro Camargo,4,6,7.5,9.5
+Mateus Morais,2,3,5.5,8
+Miguel Vinicius,4,6,5.5,7
+Douglas Raposo,4,6,4.5,8
+Bárbara Vincente,3,6.0,3.5
+Enzo Goncalves,3,6,5.7,5.6
+Agatha Cunha,2,6,6.5,7.8
