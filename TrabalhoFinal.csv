@@ -1,101 +1,101 @@
 nome,semestre,horas,notasinicio,notasfim,preco,materia
-André Rocha,2,3,6.0,8.5,100,calculo
-Elisa Manuela,2,3,6.0,7.0,100,logica
-Larissa Villela,3,3,5.0,8.0,100,portugues
-Luísa Santos,3,6,7.0,7.5,200,portugues
-Leonardo Jose Peres de Oliveira,1,3,6.0,7.8,100,logica
-Marina T,2,6,8.0,8.0,200,calculo
-Laura Clemente dos Santos de Souza,2,6,7.0,8.5,200,logica
-Victoria Yohana,4,6,5.0,8.0,200,logica
-Jorge Brandão,2,6,6.4,8.5,200,logica
-João Pedro,2,6,3.5,7.5,200,calculo
-Théo,2,3,7.0,7.5,100,portugues
-Júlia Alves,3,3,5.0,7.0,100,logica
-Thayná Villela,4,3,7.0,6.5,100,direito cibernetico
-Danilo de Araujo Machado,5,6,6.0,7.5,200,calculo
-Rodrigo Pinheiro,4,6,9.0,9.5,200,portugues
-Nicole Carneiro Camargo,4,6,7.5,9.5,200,direito cibernetico
-Mateus Morais,2,3,5.5,8.0,100,calculo
-Miguel Vinicius,4,6,5.5,7.0,200,direito cibernetico
-Douglas Raposo,4,6,4.5,8.0,200,calculo
-Bárbara Vincente,3,6,3.5,6.5,200,portugues
-Enzo Goncalves,3,6,3.7,7.6,200,portugues
-Agatha Cunha,2,6,6.5,7.9,200,calculo
-Paulo Almeida,5,3,6.7,7.3,100,portugues
-Joaquim Rocha,1,3,4.7,5.7,100,calculo
-Beatriz Souza,1,3,5.1,5.2,100,direito cibernetico
-Carlos Ferreira,5,6,3.9,4.2,200,portugues
-Raquel Rocha,1,3,8.6,8.8,200,direito cibernetico
-Raquel Oliveira,3,6,8.8,9.3,100,logica
-Sofia Rocha,3,6,5.7,5.9,100,calculo
-Joaquim Rocha,5,3,6.2,7.5,200,portugues
-Eduardo Barbosa,2,3,5.0,6.6,100,direito cibernetico
-Maria Barbosa,3,6,8.0,8.5,100,calculo
-Fernanda Ferreira,4,6,5.8,6.5,100,portugues
-Victor Almeida,3,6,5.0,5.3,100,logica
-Ana Oliveira,1,3,8.9,10.4,100,calculo
-Maria Pereira,4,3,8.9,9.4,100,direito cibernetico
-Maria Souza,6,6,5.2,6.7,100,calculo
-Karina Silva,1,6,7.3,9.0,100,portugues
-Gustavo Barbosa,5,6,4.3,4.5,200,calculo
-Paulo Santos,2,3,7.0,8.4,200,logica
-Victor Rocha,3,6,5.9,7.1,200,logica
-Leandro Ferreira,6,6,4.2,4.3,200,portugues
-Gustavo Almeida,6,6,8.9,9.5,100,calculo
-Natalia Silva,6,3,4.7,6.3,200,logica
-Yuri Ferreira,4,6,7.2,9.1,200,calculo
-Sofia Silva,4,6,4.1,4.9,200,logica
-Beatriz Medeiros,3,6,4.7,5.6,100,portugues
-Paulo Rocha,4,6,6.4,8.3,200,direito cibernetico
-Maria Rocha,2,6,5.2,6.7,200,portugues
-Raquel Almeida,3,6,7.8,9.0,200,direito cibernetico
-Raquel Santos,4,6,5.9,6.4,100,portugues
-Sofia Barbosa,3,6,8.8,9.9,200,calculo
-Sofia Barbosa,5,3,8.4,10.0,200,logica
-Joaquim Rocha,4,6,3.5,4.8,200,logica
-Maria Souza,6,6,6.2,8.2,100,direito cibernetico
-Gustavo Pereira,5,6,5.2,5.3,200,portugues
-Victor Barbosa,2,6,6.1,7.5,100,calculo
-Maria Almeida,5,6,7.2,7.7,100,calculo
-Raquel Pereira,3,3,3.1,4.5,200,calculo
-Ana Silva,4,3,8.7,9.0,200,direito cibernetico
-Paulo Souza,4,3,5.9,7.6,200,direito cibernetico
-Isabela Santos,6,6,6.5,6.6,200,portugues
-Sofia Rocha,3,6,6.8,8.5,200,logica
-Zoe Santos,4,3,4.6,5.2,200,logica
-Leandro Pereira,3,3,8.2,10.0,100,portugues
-Eduardo Oliveira,5,3,6.4,6.5,200,logica
-Gustavo Rocha,4,6,8.1,9.9,100,portugues
-Ana Medeiros,6,6,4.3,5.4,200,logica
-Natalia Rocha,3,3,3.2,4.3,200,calculo
-Fernanda Oliveira,2,6,8.2,8.3,200,calculo
-Gustavo Silva,5,3,5.3,7.1,200,portugues
-Karina Santos,1,3,8.0,9.6,100,portugues
-Fernanda Rocha,1,3,6.2,7.5,200,portugues
-Sofia Medeiros,6,6,8.8,10.4,100,calculo
-Isabela Santos,2,3,4.6,4.6,200,portugues
-Carlos Souza,5,6,7.5,8.4,100,calculo
-Zoe Rocha,4,6,3.2,3.8,100,calculo
-Ana Rocha,1,3,8.8,10.6,200,calculo
-Fernanda Ferreira,1,3,6.7,8.3,200,portugues
-Natalia Pereira,5,6,3.3,5.0,200,portugues
-Raquel Oliveira,4,6,7.3,8.5,200,calculo
-Sofia Silva,4,3,4.1,4.2,200,portugues
-Victor Almeida,2,6,7.6,8.1,200,direito cibernetico
-Natalia Souza,6,3,3.1,4.2,100,calculo
-Victor Souza,1,6,7.3,7.7,200,portugues
-Raquel Souza,5,6,5.1,5.1,100,calculo
-Karina Oliveira,6,6,8.9,10.8,100,logica
-Zoe Barbosa,5,6,3.8,5.5,100,calculo
-Isabela Souza,1,6,5.4,5.5,100,portugues
-Joaquim Rocha,6,3,5.5,6.0,200,logica
-Joaquim Silva,4,3,6.3,7.2,100,logica
-Paulo Rocha,2,6,8.1,8.7,100,calculo
-Beatriz Almeida,1,6,4.0,5.6,100,portugues
-Leandro Ferreira,3,6,3.6,3.7,200,portugues
-Isabela Santos,3,6,6.5,6.6,200,logica
-Karina Oliveira,5,6,3.3,3.4,100,direito cibernetico
-Joaquim Rocha,2,6,8.1,8.2,100,calculo
-Paulo Souza,6,3,3.9,5.4,100,calculo
-Victor Souza,1,3,3.3,4.7,200,direito cibernetico
-Carlos Rocha,2,3,8.5,10.1,200,portugues
+André Rocha,2,12,6.0,7.9,100,calculo
+Elisa Manuela,2,8,6.0,7.6,100,logica
+Larissa Villela,3,3,5.0,5.6,100,portugues
+Luísa Santos,3,5,7.0,7.8,200,portugues
+Leonardo Jose Peres de Oliveira,1,7,6.0,7.6,100,logica
+Marina T,2,10,8.0,10.6,200,calculo
+Laura Clemente dos Santos de Souza,2,9,7.0,8.8,200,logica
+Victoria Yohana,4,9,5.0,6.3,200,logica
+Jorge Brandão,2,7,6.4,8.1,200,logica
+João Pedro,2,10,3.5,4.6,200,calculo
+Théo,2,5,7.0,7.8,100,portugues
+Júlia Alves,3,7,5.0,6.3,100,logica
+Thayná Villela,4,7,7.0,7.4,100,direito cibernetico
+Danilo de Araujo Machado,5,10,6.0,7.9,200,calculo
+Rodrigo Pinheiro,4,3,9.0,10.1,200,portugues
+Nicole Carneiro Camargo,4,7,7.5,7.9,200,direito cibernetico
+Mateus Morais,2,10,5.5,7.3,100,calculo
+Miguel Vinicius,4,8,5.5,5.8,200,direito cibernetico
+Douglas Raposo,4,12,4.5,5.9,200,calculo
+Bárbara Vincente,3,3,3.5,3.9,200,portugues
+Enzo Goncalves,3,4,3.7,4.1,200,portugues
+Agatha Cunha,2,10,6.5,8.6,200,calculo
+Paulo Almeida,5,5,6.7,7.5,100,portugues
+Joaquim Rocha,1,11,4.7,6.2,100,calculo
+Beatriz Souza,1,7,5.1,5.4,100,direito cibernetico
+Carlos Ferreira,5,5,3.9,4.4,200,portugues
+Raquel Rocha,1,6,8.6,9.0,200,direito cibernetico
+Raquel Oliveira,3,10,8.8,11.1,100,logica
+Sofia Rocha,3,9,5.7,7.5,100,calculo
+Joaquim Rocha,5,2,6.2,6.9,200,portugues
+Eduardo Barbosa,2,6,5.0,5.2,100,direito cibernetico
+Maria Barbosa,3,10,8.0,10.6,100,calculo
+Fernanda Ferreira,4,2,5.8,6.5,100,portugues
+Victor Almeida,3,9,5.0,6.3,100,logica
+Ana Oliveira,1,10,8.9,11.7,100,calculo
+Maria Pereira,4,7,8.9,9.3,100,direito cibernetico
+Maria Souza,6,10,5.2,6.9,100,calculo
+Karina Silva,1,4,7.3,8.2,100,portugues
+Gustavo Barbosa,5,10,4.3,5.7,200,calculo
+Paulo Santos,2,9,7.0,8.8,200,logica
+Victor Rocha,3,10,5.9,7.4,200,logica
+Leandro Ferreira,6,5,4.2,4.7,200,portugues
+Gustavo Almeida,6,9,8.9,11.7,100,calculo
+Natalia Silva,6,7,4.7,5.9,200,logica
+Yuri Ferreira,4,10,7.2,9.5,200,calculo
+Sofia Silva,4,8,4.1,5.2,200,logica
+Beatriz Medeiros,3,4,4.7,5.3,100,portugues
+Paulo Rocha,4,8,6.4,6.7,200,direito cibernetico
+Maria Rocha,2,2,5.2,5.8,200,portugues
+Raquel Almeida,3,7,7.8,8.2,200,direito cibernetico
+Raquel Santos,4,3,5.9,6.6,100,portugues
+Sofia Barbosa,3,12,8.8,11.6,200,calculo
+Sofia Barbosa,5,7,8.4,10.6,200,logica
+Joaquim Rocha,4,10,3.5,4.4,200,logica
+Maria Souza,6,7,6.2,6.5,100,direito cibernetico
+Gustavo Pereira,5,5,5.2,5.8,200,portugues
+Victor Barbosa,2,10,6.1,8.1,100,calculo
+Maria Almeida,5,12,7.2,9.5,100,calculo
+Raquel Pereira,3,10,3.1,4.1,200,calculo
+Ana Silva,4,7,8.7,9.1,200,direito cibernetico
+Paulo Souza,4,8,5.9,6.2,200,direito cibernetico
+Isabela Santos,6,4,6.5,7.3,200,portugues
+Sofia Rocha,3,10,6.8,8.6,200,logica
+Zoe Santos,4,8,4.6,5.8,200,logica
+Leandro Pereira,3,5,8.2,9.2,100,portugues
+Eduardo Oliveira,5,8,6.4,8.1,200,logica
+Gustavo Rocha,4,5,8.1,9.1,100,portugues
+Ana Medeiros,6,10,4.3,5.4,200,logica
+Natalia Rocha,3,11,3.2,3.2,200,calculo
+Fernanda Oliveira,2,9,8.2,10.8,200,calculo
+Gustavo Silva,5,5,5.3,5.9,200,portugues
+Karina Santos,1,5,8.0,9.0,100,portugues
+Fernanda Rocha,1,4,6.2,6.9,200,portugues
+Sofia Medeiros,6,11,8.8,11.6,100,calculo
+Isabela Santos,2,3,4.6,5.2,200,portugues
+Carlos Souza,5,12,7.5,9.9,100,calculo
+Zoe Rocha,4,11,3.2,3.2,100,calculo
+Ana Rocha,1,10,8.8,11.6,200,calculo
+Fernanda Ferreira,1,4,6.7,7.5,200,portugues
+Natalia Pereira,5,2,3.3,3.7,200,portugues
+Raquel Oliveira,4,9,7.3,9.6,200,calculo
+Sofia Silva,4,2,4.1,4.6,200,portugues
+Victor Almeida,2,7,7.6,8.0,200,direito cibernetico
+Natalia Souza,6,9,3.1,4.1,100,calculo
+Victor Souza,1,2,7.3,8.2,200,portugues
+Raquel Souza,5,10,5.1,6.7,100,calculo
+Karina Oliveira,6,9,8.9,11.2,100,logica
+Zoe Barbosa,5,9,3.8,5.0,100,calculo
+Isabela Souza,1,4,5.4,6.0,100,portugues
+Joaquim Rocha,6,8,5.5,6.9,200,logica
+Joaquim Silva,4,7,6.3,7.9,100,logica
+Paulo Rocha,2,11,8.1,10.7,100,calculo
+Beatriz Almeida,1,3,4.0,4.5,100,portugues
+Leandro Ferreira,3,3,3.6,4.0,200,portugues
+Isabela Santos,3,10,6.5,8.2,200,logica
+Karina Oliveira,5,6,3.3,3.5,100,direito cibernetico
+Joaquim Rocha,2,9,8.1,10.7,100,calculo
+Paulo Souza,6,9,3.9,5.1,100,calculo
+Victor Souza,1,8,3.3,3.5,200,direito cibernetico
+Carlos Rocha,2,5,8.5,9.5,200,portugues
